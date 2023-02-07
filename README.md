@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abe, an <a href="https://www.linkedin.com/in/abraham-ruvalcaba-456236230">IT Professional</a>☺</h1>
+<h1>Hi, I'm Abe, an <a href="https://www.linkedin.com/in/abraham-ruvalcaba-456236230">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
