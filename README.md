@@ -12,10 +12,8 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Abe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Abe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Abe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/TheManAbraham
 [instagram]: https://www.instagram.com/TheManAbraham
 [linkedin]: https://www.linkedin.com/in/abraham-ruvalcaba-456236230
