@@ -16,4 +16,4 @@
 [<img align="left" alt="Abe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/TheManAbraham
-[linkedin]: https://www.linkedin.com/in/abraham-ruvalcaba-456236230
+[linkedin]: https://www.linkedin.com/in/TheManAbraham
